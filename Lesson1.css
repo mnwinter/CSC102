@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(69, 4, 95);
+  }
+  
+  h1 {
+    font-size: 50px;
+    font-family: system-ui;
+    color: white;
+    text-align: center;
+  }
+  h2 {
+    font-size: 35px;
+    color: orange;
+    text-align: center;
+    font-family: Impact;
+}
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+  }
